@@ -9,10 +9,12 @@ baseurl: ""
 url: "https://sauravroychoudhury.github.io"
 repository: "sauravroychoudhury/sauravroychoudhury.github.io"
 
+
 # Profile information
 position: Professor of Finance & Economics
 affiliation: Capital University
 location: Columbus, Ohio, USA
+
 
 # Social links
 orcid: https://orcid.org/0000-0001-8355-9317
@@ -20,80 +22,19 @@ linkedin: https://www.linkedin.com/in/sauravrc/
 google_scholar:
 ssrn:
 
+
 # Author sidebar
 author:
   name: "Saurav Roychoudhury, Ph.D."
   bio: "Professor of Finance & Economics, Capital University, Columbus, Ohio."
   location: "Columbus, Ohio, USA"
-  avatar: "/images/Saurav-academic.png"
+  avatar: "Saurav-academic.png"
   email: "sroychou@capital.edu"
   googlescholar: ""
   orcid: "https://orcid.org/0000-0001-8355-9317"
   linkedin: "sauravrc"
 
+
 # Build settings
 markdown: kramdown
 theme: minima
-include: [".htaccess", "_pages"]
-plugins:
-  - jekyll-feed
-
-# Collections
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-
-# Defaults
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      share: true
-      related: true
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: single
-      author_profile: true
-      share: true
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
