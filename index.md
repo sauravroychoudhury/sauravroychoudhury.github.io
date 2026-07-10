@@ -6,7 +6,7 @@ permalink: /
 
 # Saurav Roychoudhury, Ph.D.
 
-**Professor of Finance & Economics**  
+**Professor of Finance & Economics**<br />
 Capital University, Columbus, Ohio
 
 I am a Professor of Finance and Economics at Capital University. My research focuses on financial economics, economic impact analysis, corporate governance, and public policy evaluation. I have led major economic impact studies, including the statewide analysis of data centers in Ohio and the Columbus Metropolitan Housing Authority study.
@@ -26,5 +26,5 @@ In addition to my academic work, I lead **SRC EvalMetrics LLC**, where I provide
 
 ---
 
-[View Full CV (PDF)](/files/CV_Saurav_Roychoudhury.pdf)  
-[Google Scholar](https://scholar.google.com) | [ORCID](https://orcid.org/0000-0001-8355-9317) | [LinkedIn](https://www.linkedin.com/in/sauravrc/)
+[View Full CV (PDF)](/files/CV_Saurav_Roychoudhury.pdf)<br />
+[Google Scholar](https://scholar.google.com) | [ORCID](https://orcid.org/0000-0001-8355-9317) | [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=355353) | [LinkedIn](https://www.linkedin.com/in/sauravrc/)
