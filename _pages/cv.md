@@ -5,10 +5,10 @@ permalink: /cv/
 author_profile: true
 ---
 
-**Saurav Roychoudhury, Ph.D.**
-Professor of Finance & Economics, Capital University
-227 Troutman Hall, 1 Main & College, Bexley, Ohio 43209, USA
-Email: [sroychou@capital.edu](mailto:sroychou@capital.edu)
+**Saurav Roychoudhury, Ph.D.**<br />
+Professor of Finance & Economics, Capital University<br />
+227 Troutman Hall, 1 Main & College, Bexley, Ohio 43209, USA<br />
+Email: [sroychou@capital.edu](mailto:sroychou@capital.edu)<br />
 [ORCID](https://orcid.org/0000-0001-8355-9317) &middot; [LinkedIn](https://www.linkedin.com/in/sauravrc/)
 
 ## Education
@@ -61,6 +61,8 @@ A complete, categorized list of journal articles, books and book chapters, confe
 **Indian Statistical Institute (M.Sc. Quantitative Economics):** Finance Theory II.
 
 **West Virginia University (Undergraduate):** Introduction to Finance; Survey of Finance; Business Finance; Financial Economics.
+
+See the [Teaching](/teaching/) page for details, including my textbooks.
 
 ## Invited Talks (Selected)
 
