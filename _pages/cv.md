@@ -13,10 +13,10 @@ Email: [sroychou@capital.edu](mailto:sroychou@capital.edu)<br />
 
 ## Education
 
-- **Ph.D. in Economics**, West Virginia University, 2006. Fields: Finance & International. Dissertation: *Three Essays on IPO, Liquidity, and Corporate Governance.*
-- **MBA (Finance)**, ICFAI Business School, 2000.
-- **M.A. in Economics**, Jawaharlal Nehru University, India, 1997.
-- **B.Sc. in Economics (Honors)**, University of Calcutta, India, 1995.
+- **Ph.D. in Economics**, West Virginia University. Fields: Finance & International. Dissertation: *Three Essays on IPO, Liquidity, and Corporate Governance.*
+- **MBA (Finance)**, ICFAI Business School.
+- **M.A. in Economics**, Jawaharlal Nehru University, India.
+- **B.Sc. in Economics (Honors)**, Calcutta University, India.
 
 ### Professional Qualifications
 
