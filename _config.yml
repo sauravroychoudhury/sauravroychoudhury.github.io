@@ -18,7 +18,7 @@ location: Columbus, Ohio, USA
 orcid: https://orcid.org/0000-0001-8355-9317
 linkedin: https://www.linkedin.com/in/sauravrc/
 google_scholar:
-ssrn:
+ssrn: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=355353
 
 # Author sidebar
 author:
@@ -29,6 +29,7 @@ author:
   email: "sroychou@capital.edu"
   googlescholar: ""
   orcid: "https://orcid.org/0000-0001-8355-9317"
+  ssrn: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=355353"
   linkedin: "sauravrc"
 
 # Build settings
